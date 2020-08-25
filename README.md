@@ -3,3 +3,5 @@ This last Version I have notification system smarter than facebook, it can do aw
 
 *  user mmasokdoa 
 *  pass mmasokdoa
+
+* register myadmin1/includes/register.php
